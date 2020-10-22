@@ -1,0 +1,8 @@
+*.opendb
+*.obj
+*.ios_mac/**
+*.win32/**
+*.linux/**
+engine/**
+cocos2d/**
+build/**
